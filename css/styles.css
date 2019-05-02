@@ -3,3 +3,13 @@
   float: right;
   background-color: purple;
 }
+
+.picture {
+  width: 20%
+  float: left;
+}
+
+.photo2 {
+  width: 30%
+  float: right;
+}
